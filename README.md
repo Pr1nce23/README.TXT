@@ -17,7 +17,7 @@
 
 ## 🌌 About Me
 
-Hey! I'm **NyxThaloria**, an Information Technology student specializing in **Computer System Security**.
+Hey! I'm **Astral**, an Information Technology student specializing in **Cybersecurity**.
 
 I enjoy exploring how software works, building projects, and learning how to make digital systems more secure.
 
