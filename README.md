@@ -1,60 +1,32 @@
+# 👋 Hey, I'm Pr1nce23
 
-<div align="center">
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Building%20My%20Future&fontColor=ffffff&fontSize=40](https://capsule-render.vercel.app/api?type=rect\&color=0d1117\&height=150\&section=header\&text=Building%20My%20Future\&fontColor=ffffff\&fontSize=40)" />
+\</p>
 
-# ☾ A S T R A L
+### About Me
 
-### `Exploring the digital universe, one step at a time.`
+🎓 Cyber Security student
+💻 Exploring software development and technology
+🌱 Currently learning, experimenting, and building
+🇲🇾 Based in Malaysia
 
-**Cybersecurity Student · Lifelong Learner**
+I'm on a journey to develop my technical skills, create useful projects, and grow into a capable IT professional.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=8B7CFF&style=flat-square&label=VISITORS)
+### Currently
 
-</div>
+- 📚 Improving my technical knowledge
+- 🛠️ Working on personal and academic projects
+- 🚀 Exploring new technologies
+- 🎯 Focused on continuous improvement
 
----
+### My Goals
 
-## 🌌 About Me
-
-Hey, welcome to my little corner of the universe.
-
-I'm **Astral**, an Information Technology student studying **Cybersecurity**. I'm at the beginning of my development journey, learning how technology works and exploring how we can protect it.
-
-- 🎓 Information Technology — Cybersecurity
-- 🔐 Interested in cybersecurity and digital protection
-- 🌐 Exploring networking and internet security
-- 💻 Learning programming and technical problem-solving
-- 🌱 Growing my skills one step at a time
-
-> *Every star starts somewhere. This is where my journey begins.*
-
----
-
-## 🛸 My Learning Journey
-
-Things I'm working toward learning and understanding:
-
-- 🔒 Cybersecurity fundamentals
-- 🌐 Computer networks and internet security
-- 🖥️ Operating systems and system administration
-- 💻 Programming fundamentals
-- 🧩 Git and GitHub
+- Build projects that solve real problems
+- Strengthen my programming skills
+- Develop a professional portfolio
+- Grow into a software and IT professional
 
 ---
 
-## 🪐 Current Status
-
-**Status:** Learning mode
-
-**Focus:** Building a strong foundation in cybersecurity.
-
-**Next milestone:** Create and document my first practical project.
-
----
-
-<div align="center">
-
-### `One step. One commit. One star at a time.` ✦
-
-*Thanks for stopping by my universe.*
-
-</div>
+> Learn. Build. Improve. Repeat.
