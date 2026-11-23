@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Pr1nce23
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Building%20My%20Future&fontColor=ffffff&fontSize=40](https://capsule-render.vercel.app/api?type=rect\&color=0d1117\&height=150\&section=header\&text=Building%20My%20Future\&fontColor=ffffff\&fontSize=40)" />
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Building%20My%20Future&fontColor=ffffff&fontSize=40" />
+</p>
 
 ### About Me
 
